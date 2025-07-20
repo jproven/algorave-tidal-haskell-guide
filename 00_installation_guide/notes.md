@@ -77,11 +77,6 @@ In VS Code, go to: **File > Preferences > Settings**
 
 > 💡 The path will look something like this, but replace `X` with your username and adjust the GHC and tidal versions accordingly.
 
-
-
-> 💡 Replace `<version>` with the actual version number of the extension you have installed.
-
-
 ✅ **Verify that GHCi is working**  
 Tidal runs inside **GHCi** (the Haskell interpreter), so VS Code needs to be able to find it.
 
