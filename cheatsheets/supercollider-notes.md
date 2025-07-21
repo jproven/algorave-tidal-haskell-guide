@@ -1,4 +1,4 @@
-# 🔊 SuperCollider + SuperDirt – Basic Cheat Sheet (with Haskell-style comments)
+# 🔊 SuperCollider + SuperDirt – Basic Cheat Sheet
 
 ## ▶️ Boot the audio server and SuperDirt
 ```supercollider
