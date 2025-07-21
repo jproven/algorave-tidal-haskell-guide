@@ -1,12 +1,12 @@
 The installation order is important for TidalCycles to work correctly. The recommended order is:
 
-1. SuperCollider
+## 1. SuperCollider
     
     It’s the audio engine that makes the patterns sound.
 
 Download it from: https://supercollider.github.io/downloads. After installing it, don’t open it yet, wait until you reach step 5.
 
-2. Install Haskell and Cabal
+## 2. Install Haskell and Cabal
 
    TidalCycles is written in Haskell and managed with Cabal, its package manager.
 
@@ -44,7 +44,7 @@ ghcup set cabal 3.8.1.0
 
 ```
 
- 3. Install TidalCycles
+## 3. Install TidalCycles
 
 Open a terminal and run:
 
@@ -55,7 +55,7 @@ cabal install tidal
 
 This will install the tidal package to be used inside the GHCi interpreter.
 
- 4. Code editor with Tidal support
+## 4. Code editor with Tidal support
 
 Atom was very popular at one time, although it should be noted that support for it ended on December 15, 2022. Still, I’m including the repositories to get it along with the TidalCycles package, in case anyone is interested.
 
@@ -77,11 +77,6 @@ In VS Code, go to: **File > Preferences > Settings**
 
 > 💡 The path will look something like this, but replace `X` with your username and adjust the GHC and tidal versions accordingly.
 
-
-
-> 💡 Replace `<version>` with the actual version number of the extension you have installed.
-
-
 ✅ **Verify that GHCi is working**  
 Tidal runs inside **GHCi** (the Haskell interpreter), so VS Code needs to be able to find it.
 
@@ -92,7 +87,7 @@ ghci
 
 ```
 
- 5. Run SuperDirt in SuperCollider
+## 5. Run SuperDirt in SuperCollider
 
 Open **SuperCollider** and run this line:
 
