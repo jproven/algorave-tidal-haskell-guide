@@ -22,11 +22,11 @@ It’s not just about sound—Algorave is also about the aesthetics of code. The
 
 **SuperCollider** is the powerful audio engine behind Tidal, responsible for sound synthesis and playback. Together, they offer:
 
-- 🔁 **Pattern-centric thinking**: Easily create polyrhythms, nested patterns, and time-based transformations.
-- 🎛️ **Real-time control**: Modify sounds live with minimal delay.
-- 🎹 **Sound flexibility**: Use custom samples or synthesis engines like SuperDirt.
-- 🎼 **Mathematical musicality**: Harness the expressive power of functional programming.
-- 🧠 **Creative coding**: Think about music in new, generative ways.
+- 🔁 **Pattern-centric thinking**: easily create polyrhythms, nested patterns, and time-based transformations.
+- 🎛️ **Real-time control**: modify sounds live with minimal delay.
+- 🎹 **Sound flexibility**: use custom samples or synthesis engines like SuperDirt.
+- 🎼 **Mathematical musicality**: harness the expressive power of functional programming.
+- 🧠 **Creative coding**: think about music in new, generative ways.
 
 This combination is ideal for experimentation, improvisation, and the live coding stage.
 
