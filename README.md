@@ -34,7 +34,7 @@ This combination is ideal for experimentation, improvisation, and the live codin
 
 ## 📓 About This Project
 
-This repository is my **learning journal**—a personal log of everything I’ve been exploring in the realm of Algorave, TidalCycles, and Haskell. It includes:
+This repository is my **learning journal** — a personal log of everything I’ve been exploring in the realm of Algorave, TidalCycles, and Haskell. It includes:
 
 - 🧾 Cheat sheets for TidalCycles patterns, syntax, and functions.
 - 💡 Comments and explanations in Markdown for deeper understanding.
