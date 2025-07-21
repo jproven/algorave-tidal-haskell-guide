@@ -10,7 +10,9 @@ Welcome to my personal guide and learning log on **TidalCycles**, **SuperCollide
 
 It’s not just about sound—Algorave is also about the aesthetics of code. The source code itself is usually projected to the audience, turning the programming process into part of the performance.
 
-<img src="images/tidalcycles_live.png" alt="TidalCycles live performance" width="300" />
+<p align="center">
+  <img src="images/tidalcycles_live.png" alt="TidalCycles live performance" width="500" />
+</p>
 
 ---
 
