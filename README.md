@@ -8,7 +8,7 @@ Welcome to my personal guide and learning log on **TidalCycles**, **SuperCollide
 
 **Algorave** is a global movement where artists use live coding to create music for dance floors. The term comes from *algorithm* + *rave*. Instead of traditional DJing, performers write and modify code in real time, producing evolving, algorithmic soundscapes and rhythms.
 
-It’s not just about sound—Algorave is also about the aesthetics of code. The source code itself is usually projected to the audience, turning the programming process into part of the performance.
+It’s not just about sound — Algorave is also about the aesthetics of code. The source code itself is usually projected to the audience, turning the programming process into part of the performance.
 
 <p align="center">
   <img src="images/tidalcycles_live.png" alt="TidalCycles live performance" width="500" />
